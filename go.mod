@@ -4,7 +4,7 @@ go 1.25.14
 
 require (
 	github.com/hegarty/shop_platform v0.0.0-20260916125442-dd4cc9f59fe9
-	github.com/jackc/pgx/v5 v5.9.2
+	github.com/jackc/pgx/v5 v5.11.0
 	github.com/twmb/franz-go v1.21.6
 )
 
